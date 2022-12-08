@@ -1,6 +1,9 @@
   /* * {
     border: 1px solid red;
   } */
+  #logoAP {
+    width: 100px;
+  }
   .nopadding {
     padding: 0px;
   }
@@ -17,6 +20,7 @@
   .imgBanner {
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
+    width: 100%;
   }
   .sobrePuesto {
     margin-top: -100px;
